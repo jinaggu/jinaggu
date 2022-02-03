@@ -1,4 +1,4 @@
-### ✨ gina world ✨
+<h2>✨ gina world ✨</h2>
 
 <!--
 **jinaggu/jinaggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<hr/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinaggu)](https://github.com/jinaggu/github-readme-stats)
