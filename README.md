@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 이진화 (jinagggu) <br/>
 <br/>
 ✉ Email : dlwls7108@naver.com <br/>
-📰 Portfolio : https://ginaggu.tistory.com/<br/>
+📰 Blog : https://ginaggu.tistory.com/<br/>
 📋 Resume : https://lace-bongo-ecf.notion.site/0624857160aa49a0ae6cd0146b0cd75c <br/>
 
 Citizen @ 경기도 용인시 기흥구 🏡
