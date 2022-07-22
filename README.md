@@ -1,4 +1,4 @@
-<h2>✨ gina world ✨</h2>
+<h1>✨ gina world ✨</h1>
 
 <!--
 **jinaggu/jinaggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
