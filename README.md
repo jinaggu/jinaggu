@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-이진화 (jinagggu) <br/>
+이진화🎃 (jinagggu) <br/>
 <br/>
 ✉ Email : dlwls7108@naver.com <br/>
 📰 Blog : https://ginaggu.tistory.com/<br/>
