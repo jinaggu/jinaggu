@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/dlwls7108@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <h2>이진화🎃 (jinagggu)</h2>
-👋 Hi there! I'm a Software Engineer for UI/UX & Web Applications. 💻 <br/>
+👋 Hi there! I'm a <b>Software Engineer</b> for UI/UX & Web Applications. 💻 <br/>
 I focus on building intuitive and user-friendly web interfaces. ✨  
 <br/>
 <br/>
@@ -18,8 +18,8 @@ I aim to create beautiful and meaningful user experiences. 🌿
 ✉ Email : dlwls7108@naver.com <br/>
 📰 Blog : https://ginaggu.tistory.com/<br/>
 📋 Resume : https://lace-bongo-ecf.notion.site/0624857160aa49a0ae6cd0146b0cd75c <br/>
-
-Citizen @ 경기도 용인시 기흥구 🏡
+<br/>
+<b>Citizen</b>@ 경기도 용인시 기흥구 🏡
 
 <br/>
 <h2>🦁 Tech Stack</h2>
