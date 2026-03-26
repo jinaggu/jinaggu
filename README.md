@@ -46,6 +46,6 @@ Citizen @ 경기도 용인시 기흥구 🏡
 </p>
 
 <br/>
-<h2>🏃‍♂️ Activity</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinaggu)](https://github.com/jinaggu/github-readme-stats)
+<!-- <h2>🏃‍♂️ Activity</h2>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinaggu)](https://github.com/jinaggu/github-readme-stats) -->
