@@ -5,25 +5,15 @@
 <a href="mailto:dlwls7108@naver.com">
   <img src="https://img.shields.io/badge/dlwls7108@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-<h2>Jinwha Lee</h2>
+<h2>이진화🎃 (jinagggu)</h2>
+👋 Hi there! I'm a Software Engineer for UI/UX & Web Applications. 💻 <br/>
+I focus on building intuitive and user-friendly web interfaces. ✨  
+<br/>
+<br/>
+I love snowboarding and enjoy active outdoor life. 🏂❄️  <br/>
+I aim to create beautiful and meaningful user experiences. 🌿
 
-<!--
-**jinaggu/jinaggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-이진화🎃 (jinagggu) <br/>
+<br/>
 <br/>
 ✉ Email : dlwls7108@naver.com <br/>
 📰 Blog : https://ginaggu.tistory.com/<br/>
